@@ -11,7 +11,8 @@ $ pip install tweepy
 ```
   
  
-○ config.py　　 
+○ config.py  
+ 
 　config.pyの中身に取得したConsumer API key, Consumer API secret key, Access token, Access token secret, Webhook URLを記入　　
  
 ```python config.py
